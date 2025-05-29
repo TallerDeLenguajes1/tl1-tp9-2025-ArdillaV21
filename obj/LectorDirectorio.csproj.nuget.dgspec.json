@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Alumno\\Desktop\\LectorDirectorio\\LectorDirectorio.csproj": {}
+    "C:\\Users\\Alumno\\Desktop\\LectorDirectorio\\LectorDirectorio.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Alumno\\Desktop\\LectorDirectorio\\LectorDirectorio.csproj": {
+    "C:\\Users\\Alumno\\Desktop\\LectorDirectorio\\LectorDirectorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Alumno\\Desktop\\LectorDirectorio\\LectorDirectorio.csproj",
+        "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\LectorDirectorio\\LectorDirectorio.csproj",
         "projectName": "LectorDirectorio",
-        "projectPath": "c:\\Users\\Alumno\\Desktop\\LectorDirectorio\\LectorDirectorio.csproj",
+        "projectPath": "C:\\Users\\Alumno\\Desktop\\LectorDirectorio\\LectorDirectorio.csproj",
         "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Alumno\\Desktop\\LectorDirectorio\\obj\\",
+        "outputPath": "C:\\Users\\Alumno\\Desktop\\LectorDirectorio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
